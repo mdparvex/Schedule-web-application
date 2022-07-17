@@ -1,6 +1,7 @@
 # Schedule-web-application
 user can make their daily life schedule in this app
 #Web interface
-![Screenshot (252)](https://user-images.githubusercontent.com/74006602/179420516-7c2fc95f-b8f2-49d8-85bc-2442cc45a800.png)
-![Screenshot (253)](https://user-images.githubusercontent.com/74006602/179420521-fe00b1a7-efce-4109-a700-e7a1c13bdb35.png)
-![Screenshot (254)](https://user-images.githubusercontent.com/74006602/179420525-34e6fd35-07d0-46fe-b1cd-1e61ec8fef2d.png)
+
+![Screenshot (255)](https://user-images.githubusercontent.com/74006602/179420585-c3029ff7-1626-4fd6-bd0a-cf99d7dde796.png)
+![Screenshot (256)](https://user-images.githubusercontent.com/74006602/179420596-5a517f07-0474-463e-b4e1-74cd086f7eb9.png)
+![Screenshot (257)](https://user-images.githubusercontent.com/74006602/179420610-e6495f53-451c-40f9-a8f4-09e4e513302d.png)
