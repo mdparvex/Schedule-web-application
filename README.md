@@ -1,8 +1,8 @@
 # Schedule-web-application
 <h1>user can make their daily life schedule in this app</h1>
-#Only Authenticated User Can create their Todo list.
-#Authenticated User only able to see their Todo list.
-#One User can not see another one's Todo list
+<h6>Only Authenticated User Can create their Todo list.</h6>
+<h6>Authenticated User only able to see their Todo list.</h6>
+<h6>One User can not see another one's Todo list.</h6>
 #Web interface
 
 
